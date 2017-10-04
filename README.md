@@ -17,3 +17,5 @@
 * [Unity 3D](https://unity3d.com/)
 * [Unity download page (latest)](https://store.unity.com/download?ref=personal)
 * [Unity download page (archive)](https://unity3d.com/get-unity/download/archive?)
+
+*Nota: la versione installata in classe è la **2017.1.1**.*
