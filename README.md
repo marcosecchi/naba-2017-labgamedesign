@@ -1,7 +1,7 @@
 # NABA - Applicazioni Digitali per le Arti Visive II
 ## Lab Game Design 2017/2018
 
-*Docente: [Marco Secchi](http://marcosecchi.it)*
+*Docente: Marco Secchi - [http://marcosecchi.it](http://marcosecchi.it)*
 
 * [Wiki del Corso](https://github.com/marcosecchi/naba-2017-labgamedesign/wiki)
 
