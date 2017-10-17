@@ -9,7 +9,11 @@
 
 * [Unity Awards 2017](https://www.youtube.com/watch?v=8--xPOlY7kU)
 * [Adam - Chapter 1](https://www.youtube.com/watch?v=GXI0l3yqBrA)
-* [Adam - The Mirror](https://www.youtube.com/watch?v=8--xPOlY7kU) by Neill Blomkamp
+* [Adam - The Mirror](https://www.youtube.com/watch?v=R8NeB10INDo) by Neill Blomkamp
+
+### Assets
+
+* [Standard Assets (pt. 1)](http://marcosecchi.it/naba2017/StandardAssets_01.zip)
 
 
 ### Link Utili
