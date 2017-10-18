@@ -12,6 +12,10 @@
 
 * [Standard Assets (pt. 1)](http://marcosecchi.it/naba2017/StandardAssets_01.zip)
 
+### Risorse Grafiche
+
+* [Skyboxes by CustomMapMakers](http://www.custommapmakers.org/skyboxes.php)
+
 ### Link Utili
 
 * [Unity 3D](https://unity3d.com/)
