@@ -3,18 +3,14 @@
 
 *Docente: Marco Secchi - [http://marcosecchi.it](http://marcosecchi.it)*
 
-* [Wiki del Corso](https://github.com/marcosecchi/naba-2017-labgamedesign/wiki)
+### Elenco Lezioni
 
-### Videos
-
-* [Unity Awards 2017](https://www.youtube.com/watch?v=8--xPOlY7kU)
-* [Adam - Chapter 1](https://www.youtube.com/watch?v=GXI0l3yqBrA)
-* [Adam - The Mirror](https://www.youtube.com/watch?v=R8NeB10INDo) by Neill Blomkamp
+* [Lezione 1 - 06/10/2017](https://github.com/marcosecchi/naba-2017-labgamedesign/blob/master/lezione1_20171006.md)
+* [Lezione 2 - 13/10/2017](https://github.com/marcosecchi/naba-2017-labgamedesign/blob/master/lezione2_20171013.md)
 
 ### Assets
 
 * [Standard Assets (pt. 1)](http://marcosecchi.it/naba2017/StandardAssets_01.zip)
-
 
 ### Link Utili
 
