@@ -7,6 +7,7 @@
 
 * [Lezione 1 - 06/10/2017](https://github.com/marcosecchi/naba-2017-labgamedesign/blob/master/lezione1_20171006.md)
 * [Lezione 2 - 13/10/2017](https://github.com/marcosecchi/naba-2017-labgamedesign/blob/master/lezione2_20171013.md)
+* [Lezione 3 - 20/10/2017](https://github.com/marcosecchi/naba-2017-labgamedesign/blob/master/lezione3_20171020.md)
 
 ### Assets
 
