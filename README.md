@@ -8,6 +8,7 @@
 * [Lezione 1 - 06/10/2017](https://github.com/marcosecchi/naba-2017-labgamedesign/blob/master/lezione1_20171006.md)
 * [Lezione 2 - 13/10/2017](https://github.com/marcosecchi/naba-2017-labgamedesign/blob/master/lezione2_20171013.md)
 * [Lezione 3 - 20/10/2017](https://github.com/marcosecchi/naba-2017-labgamedesign/blob/master/lezione3_20171020.md)
+* [Lezione 4 - 27/10/2017](https://github.com/marcosecchi/naba-2017-labgamedesign/blob/master/lezione4_20171027.md)
 
 ### Assets
 
@@ -17,11 +18,15 @@
 ### Risorse Grafiche
 
 * [Skyboxes by CustomMapMakers](http://www.custommapmakers.org/skyboxes.php)
+* [Substance Share](https://share.allegorithmic.com/)
+* [Substance Source](https://source.allegorithmic.com)
 
 ### Link Utili
 
 * [Unity 3D](https://unity3d.com/)
 * [Unity download page (latest)](https://store.unity.com/download?ref=personal)
 * [Unity download page (archive)](https://unity3d.com/get-unity/download/archive?)
+* [Bitmap2Material, Substance Painter, Substance Designer](https://www.allegorithmic.com/)
+* [Allegorithmic Education](https://www.allegorithmic.com/buy/education): per richiedere la licenza dei software (Bitmap2Material, Substance Painter, Substance Designer)
 
 *Nota: la versione installata in classe è la **2017.1.1**.*
