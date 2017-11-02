@@ -9,11 +9,13 @@
 * [Lezione 2 - 13/10/2017](https://github.com/marcosecchi/naba-2017-labgamedesign/blob/master/lezione2_20171013.md)
 * [Lezione 3 - 20/10/2017](https://github.com/marcosecchi/naba-2017-labgamedesign/blob/master/lezione3_20171020.md)
 * [Lezione 4 - 27/10/2017](https://github.com/marcosecchi/naba-2017-labgamedesign/blob/master/lezione4_20171027.md)
+* [Lezione 5 - 03/11/2017](https://github.com/marcosecchi/naba-2017-labgamedesign/blob/master/lezione5_20171103.md)
 
 ### Assets
 
 * [Standard Assets (pt. 1)](http://marcosecchi.it/naba2017/StandardAssets_01.zip)
 * [Materials](http://marcosecchi.it/naba2017/materials.zip)
+* [Fungus](http://marcosecchi.it/naba2017/Fungus.zip)
 
 ### Risorse Grafiche
 
