@@ -10,6 +10,11 @@
 * [Lezione 3 - 20/10/2017](https://github.com/marcosecchi/naba-2017-labgamedesign/blob/master/lezione3_20171020.md)
 * [Lezione 4 - 27/10/2017](https://github.com/marcosecchi/naba-2017-labgamedesign/blob/master/lezione4_20171027.md)
 * [Lezione 5 - 03/11/2017](https://github.com/marcosecchi/naba-2017-labgamedesign/blob/master/lezione5_20171103.md)
+* [Lezione 6 - 10/11/2017](https://github.com/marcosecchi/naba-2017-labgamedesign/blob/master/lezione6_20171110.md)
+
+### Esercitazioni in Classe
+
+* [Fungus Demos](https://github.com/marcosecchi/naba-2017-labgamedesign-fungus-demos)
 
 ### Assets
 
