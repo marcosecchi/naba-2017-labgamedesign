@@ -14,7 +14,7 @@
 
 ### Esercitazioni in Classe
 
-* [Fungus Demos](https://github.com/marcosecchi/naba-2017-labgamedesign-fungus-demos)
+* :exclamation: [Fungus Demos](https://github.com/marcosecchi/naba-2017-labgamedesign-fungus-demos)
 
 ### Assets
 
