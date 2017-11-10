@@ -35,5 +35,6 @@
 * [Unity download page (archive)](https://unity3d.com/get-unity/download/archive?)
 * [Bitmap2Material, Substance Painter, Substance Designer](https://www.allegorithmic.com/)
 * [Allegorithmic Education](https://www.allegorithmic.com/buy/education): per richiedere la licenza dei software (Bitmap2Material, Substance Painter, Substance Designer)
+* [Fungus](http://fungusgames.com/)
 
 *Nota: la versione installata in classe è la **2017.1.1**.*
