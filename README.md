@@ -14,7 +14,7 @@
 
 ### Esercitazioni in Classe
 
-* :mushroom:[Fungus Demos](https://github.com/marcosecchi/naba-2017-labgamedesign-fungus-demos)
+* :file_folder:[Fungus Demos](https://github.com/marcosecchi/naba-2017-labgamedesign-fungus-demos) (latest release)
 
 ### Assets
 
