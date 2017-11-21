@@ -22,7 +22,7 @@
 
 * [Standard Assets (pt. 1)](http://marcosecchi.it/naba2017/StandardAssets_01.zip)
 * [Materials](http://marcosecchi.it/naba2017/materials.zip)
-* [Fungus](http://marcosecchi.it/naba2017/Fungus.zip)
+* [Fungus 3.6](http://marcosecchi.it/naba2017/Fungus.zip)
 
 ### Risorse Grafiche
 
