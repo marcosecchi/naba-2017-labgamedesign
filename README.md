@@ -9,9 +9,9 @@
 * [Lezione 2 - 13/10/2017](https://github.com/marcosecchi/naba-2017-labgamedesign/blob/master/lezione2_20171013.md)
 * [Lezione 3 - 20/10/2017](https://github.com/marcosecchi/naba-2017-labgamedesign/blob/master/lezione3_20171020.md)
 * [Lezione 4 - 27/10/2017](https://github.com/marcosecchi/naba-2017-labgamedesign/blob/master/lezione4_20171027.md)
-* [Lezione 5 - 03/11/2017](https://github.com/marcosecchi/naba-2017-labgamedesign/blob/master/lezione5_20171103.md) - :file_folder:[Esercizi](https://github.com/marcosecchi/naba-2017-labgamedesign-fungus-demos/archive/lesson-20171103.zip)
-* [Lezione 6 - 10/11/2017](https://github.com/marcosecchi/naba-2017-labgamedesign/blob/master/lezione6_20171110.md) - :file_folder:[Esercizi](https://github.com/marcosecchi/naba-2017-labgamedesign-fungus-demos/archive/lesson_20171110.zip)
-* [Lezione 7 - 17/11/2017](https://github.com/marcosecchi/naba-2017-labgamedesign/blob/master/lezione7_20171117.md) - :file_folder:[Esercizi](https://github.com/marcosecchi/naba-2017-labgamedesign-fungus-demos/archive/lesson_20171117.zip)
+* [Lezione 5 - 03/11/2017](https://github.com/marcosecchi/naba-2017-labgamedesign/blob/master/lezione5_20171103.md) - :file_folder:[Esercitazioni](https://github.com/marcosecchi/naba-2017-labgamedesign-fungus-demos/archive/lesson-20171103.zip)
+* [Lezione 6 - 10/11/2017](https://github.com/marcosecchi/naba-2017-labgamedesign/blob/master/lezione6_20171110.md) - :file_folder:[Esercitazioni](https://github.com/marcosecchi/naba-2017-labgamedesign-fungus-demos/archive/lesson_20171110.zip)
+* [Lezione 7 - 17/11/2017](https://github.com/marcosecchi/naba-2017-labgamedesign/blob/master/lezione7_20171117.md) - :file_folder:[Esercitazioni](https://github.com/marcosecchi/naba-2017-labgamedesign-fungus-demos/archive/lesson_20171117.zip)
 * [Lezione 8 - 24/11/2017](https://github.com/marcosecchi/naba-2017-labgamedesign/blob/master/lezione8_20171124.md)
 
 > Nota: L'ultima versione delle esercitazioni, è disponibile al seguente link: [Fungus Demos](https://github.com/marcosecchi/naba-2017-labgamedesign-fungus-demos)
