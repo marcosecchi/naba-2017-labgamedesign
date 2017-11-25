@@ -18,7 +18,7 @@
 
 ### Tutorial
 
-* [Tutorial Unity3D e Fungus](https://tech.io/playgrounds/10655/unity3d-e-fungus-tutorial---presentazione)
+* [Tutorial Unity3D e Fungus](https://tech.io/playgrounds/10655/tutorial-unity3d-e-fungus/introduzione)
 
 ### Assets
 
