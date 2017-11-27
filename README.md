@@ -33,6 +33,7 @@
 * [Skyboxes by CustomMapMakers](http://www.custommapmakers.org/skyboxes.php)
 * [Substance Share](https://share.allegorithmic.com/)
 * [Substance Source](https://source.allegorithmic.com)
+* [Free PBR](https://freepbr.com/)
 
 ### Link Utili
 
