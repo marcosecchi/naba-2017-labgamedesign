@@ -18,7 +18,7 @@
 
 ### Tutorial
 
-* [Tutorial Unity3D e Fungus](https://tech.io/playgrounds/10655/tutorial-unity3d-e-fungus/)
+* [Tutorial Unity3D e Fungus](https://tech.io/playgrounds/10655/tutorial-unity3d-e-fungus-pickups): come raccogliere oggetti in scena e tenere traccia dei punti.
 
 ### Assets
 
