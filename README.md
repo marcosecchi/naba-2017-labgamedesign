@@ -14,7 +14,7 @@
 * [Lezione 7 - 17/11/2017](https://github.com/marcosecchi/naba-2017-labgamedesign/blob/master/lezione7_20171117.md)
 * [Lezione 8 - 24/11/2017](https://github.com/marcosecchi/naba-2017-labgamedesign/blob/master/lezione8_20171124.md)
 
-> Nota: L'ultima versione delle esercitazioni, è disponibile al seguente link: [Fungus Demos](https://github.com/marcosecchi/naba-2017-labgamedesign-fungus-demos)
+> Nota: L'ultima versione delle esercitazioni, è disponibile al seguente link: [Fungus Demos](https://github.com/marcosecchi/naba-2017-labgamedesign-fungus-demos/releases)
 
 ### Tutorial
 
