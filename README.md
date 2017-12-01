@@ -14,7 +14,10 @@
 * [Lezione 7 - 17/11/2017](https://github.com/marcosecchi/naba-2017-labgamedesign/blob/master/lezione7_20171117.md)
 * [Lezione 8 - 24/11/2017](https://github.com/marcosecchi/naba-2017-labgamedesign/blob/master/lezione8_20171124.md)
 
-> Nota: L'ultima versione delle esercitazioni, è disponibile al seguente link: [Fungus Demos](https://github.com/marcosecchi/naba-2017-labgamedesign-fungus-demos/releases)
+> *Nota: la versione di Unity installata in classe è la **2017.1.1**.*
+
+> *Nota: L'ultima versione delle esercitazioni, è disponibile al seguente link: [Fungus Demos](https://github.com/marcosecchi/naba-2017-labgamedesign-fungus-demos/releases)*
+
 
 ### Tutorial
 
@@ -29,13 +32,6 @@
 * [Materials](http://marcosecchi.it/naba2017/materials.zip)
 * [Environment](http://marcosecchi.it/naba2017/Environment.zip)
 
-### Risorse Grafiche
-
-* [Skyboxes by CustomMapMakers](http://www.custommapmakers.org/skyboxes.php)
-* [Substance Share](https://share.allegorithmic.com/)
-* [Substance Source](https://source.allegorithmic.com)
-* [Free PBR](https://freepbr.com/)
-
 ### Link Utili
 
 * [Unity 3D](https://unity3d.com/)
@@ -45,4 +41,15 @@
 * [Allegorithmic Education](https://www.allegorithmic.com/buy/education): per richiedere la licenza dei software (Bitmap2Material, Substance Painter, Substance Designer)
 * [Fungus](http://fungusgames.com/)
 
-*Nota: la versione installata in classe è la **2017.1.1**.*
+### Risorse Grafiche
+
+* [Skyboxes by CustomMapMakers](http://www.custommapmakers.org/skyboxes.php)
+* [Substance Share](https://share.allegorithmic.com/)
+* [Substance Source](https://source.allegorithmic.com)
+* [Free PBR](https://freepbr.com/)
+
+### Adam Videos
+
+* [Adam - Episode 1](https://www.youtube.com/watch?v=GXI0l3yqBrA)
+* [Adam - Episode 2](https://www.youtube.com/watch?v=R8NeB10INDo) by Neill Blomkamp
+* [Adam - Episode 3](https://www.youtube.com/watch?v=tSDsi2ItktY) by Neill Blomkamp
