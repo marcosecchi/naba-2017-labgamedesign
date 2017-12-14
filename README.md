@@ -35,22 +35,37 @@
 
 ### Link Utili
 
+#### Unity
+
 * [Unity 3D](https://unity3d.com/)
 * [Unity download page (latest)](https://store.unity.com/download?ref=personal)
 * [Unity download page (archive)](https://unity3d.com/get-unity/download/archive?)
-* [Bitmap2Material, Substance Painter, Substance Designer](https://www.allegorithmic.com/)
-* [Allegorithmic Education](https://www.allegorithmic.com/buy/education): per richiedere la licenza dei software (Bitmap2Material, Substance Painter, Substance Designer)
+
+#### Plugins
+
 * [Fungus](http://fungusgames.com/)
 
-### Risorse Grafiche
+#### Video Tutorials
 
+* [Brackeys](https://www.youtube.com/brackeys/)
+* [Makin' Stuff Look Good](https://www.youtube.com/channel/UCEklP9iLcpExB8vp_fWQseg)
+* [Makin' Stuff Look Good](https://www.youtube.com/channel/UCEklP9iLcpExB8vp_fWQseg)
+
+#### Assets
+
+* [Dev Assets (Brackeys)](http://devassets.com/)
 * [Skyboxes by CustomMapMakers](http://www.custommapmakers.org/skyboxes.php)
 * [Substance Share](https://share.allegorithmic.com/)
 * [Substance Source](https://source.allegorithmic.com)
 * [Free PBR](https://freepbr.com/)
 
-### Adam Videos
+#### Movies
 
 * [Adam - Episode 1](https://www.youtube.com/watch?v=GXI0l3yqBrA)
 * [Adam - Episode 2](https://www.youtube.com/watch?v=R8NeB10INDo) (regia di Neill Blomkamp)
 * [Adam - Episode 3](https://www.youtube.com/watch?v=tSDsi2ItktY) (regia di Neill Blomkamp)
+
+#### Altri Software
+
+* [Bitmap2Material, Substance Painter, Substance Designer](https://www.allegorithmic.com/)
+* [Allegorithmic Education](https://www.allegorithmic.com/buy/education): per richiedere la licenza dei software (Bitmap2Material, Substance Painter, Substance Designer)
