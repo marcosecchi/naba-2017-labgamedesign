@@ -17,7 +17,7 @@
 
 > *Nota: la versione di Unity installata in classe è la **2017.1.1**.*
 
-> *Nota: L'ultima versione delle esercitazioni, è disponibile al seguente link: [Fungus Demos](https://github.com/marcosecchi/naba-2017-labgamedesign-fungus-demos/releases)*
+> *Nota: Le esercitazioni in classe sono disponibili al seguente link: [Fungus Demos](https://github.com/marcosecchi/naba-2017-labgamedesign-fungus-demos/releases)*
 
 
 ### Tutorial
@@ -32,6 +32,7 @@
 * [Fungus 3.7](http://marcosecchi.it/naba2017/Fungus_3_7.zip): utilizzare questa versione invece della precedente
 * [Materials](http://marcosecchi.it/naba2017/materials.zip)
 * [Environment](http://marcosecchi.it/naba2017/Environment.zip)
+* [Cinemachine, Timeline, Post Processing Stack](https://www.youtube.com/redirect?v=Ip44oeqrqws&redir_token=MQ08kq82wvCqrOPmyJ9qoOkznQl8MTUxMzM1MTQ2OEAxNTEzMjY1MDY4&event=video_description&q=https%3A%2F%2Fwww.dropbox.com%2Fs%2Fuqh6iurd646mvwt%2FTimelineAndCinemachineTutorial-WG.zip%3Fdl%3D0)
 
 ### Link Utili
 
