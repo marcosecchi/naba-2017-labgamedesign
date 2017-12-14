@@ -24,7 +24,7 @@
 
 * [Tutorial Unity3D e Fungus](https://tech.io/playgrounds/10655/tutorial-unity3d-e-fungus-pickups): come raccogliere oggetti in scena e tenere traccia dei punti.
 
-### Assets
+### Materiale per le Lezioni
 
 * [Standard Assets (base)](http://marcosecchi.it/naba2017/StandardAssets_01.zip)
 * [Standard Assets (veicoli)](http://marcosecchi.it/naba2017/StandardAssets_04_Vehicles.zip)
