@@ -32,7 +32,7 @@
 * [Fungus 3.7](http://marcosecchi.it/naba2017/Fungus_3_7.zip): utilizzare questa versione invece della precedente
 * [Materials](http://marcosecchi.it/naba2017/materials.zip)
 * [Environment](http://marcosecchi.it/naba2017/Environment.zip)
-* [Cinemachine, Timeline, Post Processing Stack](https://www.youtube.com/redirect?v=Ip44oeqrqws&redir_token=MQ08kq82wvCqrOPmyJ9qoOkznQl8MTUxMzM1MTQ2OEAxNTEzMjY1MDY4&event=video_description&q=https%3A%2F%2Fwww.dropbox.com%2Fs%2Fuqh6iurd646mvwt%2FTimelineAndCinemachineTutorial-WG.zip%3Fdl%3D0)
+* [Cinemachine, Timeline, Post Processing Stack](https://www.dropbox.com/s/uqh6iurd646mvwt/TimelineAndCinemachineTutorial-WG.zip?dl=0)
 
 ### Link Utili
 
