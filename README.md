@@ -47,9 +47,15 @@
 
 #### Video Tutorials
 
+* [Unity Live Training Sessions](https://unity3d.com/learn/live-training)
 * [Brackeys](https://www.youtube.com/brackeys/)
 * [Makin' Stuff Look Good](https://www.youtube.com/channel/UCEklP9iLcpExB8vp_fWQseg)
-* [Makin' Stuff Look Good](https://www.youtube.com/channel/UCEklP9iLcpExB8vp_fWQseg)
+
+#### Altre Risorse Video
+
+* [GDC](https://www.youtube.com/channel/UC0JB7TSe49lg56u6qH8y_MQ)
+* [GD Quest](https://www.youtube.com/channel/UCxboW7x0jZqFdvMdCFKTMsQ)
+* [Extra Credits](https://www.youtube.com/channel/UCCODtTcd5M1JavPCOr_Uydg)
 
 #### Assets
 
