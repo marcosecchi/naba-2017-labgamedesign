@@ -45,6 +45,8 @@
 #### Plugins
 
 * [Fungus](http://fungusgames.com/)
+* [Post Processing Stack](https://assetstore.unity.com/packages/essentials/post-processing-stack-83912)
+* [Cinemachine](https://assetstore.unity.com/packages/essentials/cinemachine-79898)
 
 #### Video Tutorials
 
