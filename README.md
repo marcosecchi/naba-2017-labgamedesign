@@ -21,6 +21,9 @@
 
 > *Nota: Le esercitazioni in classe sono disponibili al seguente link: [Fungus Demos](https://github.com/marcosecchi/naba-2017-labgamedesign-fungus-demos/releases)*
 
+### Esercitazioni 2016
+
+[Link alle esercitazioni dell'anno precedente](https://github.com/marcosecchi/naba-2016-labgamedesign-fungus-demos)
 
 ### Tutorial
 
