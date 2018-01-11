@@ -16,6 +16,7 @@
 * [Lezione 9 - 02/12/2017](https://github.com/marcosecchi/naba-2017-labgamedesign/blob/master/lezione9_20171202.md)
 * [Lezione 10 - 15/12/2017](https://github.com/marcosecchi/naba-2017-labgamedesign/blob/master/lezione10_20171215.md)
 * [Lezione 11 - 22/12/2017](https://github.com/marcosecchi/naba-2017-labgamedesign/blob/master/lezione11_20171222.md)
+* [Lezione 12 - 12/01/2018](https://github.com/marcosecchi/naba-2017-labgamedesign/blob/master/lezione12_20180112.md)
 
 > *Nota: la versione di Unity installata in classe è la **2017.1.1**.*
 
