@@ -91,6 +91,7 @@
 
 * [Bitmap2Material, Substance Painter, Substance Designer](https://www.allegorithmic.com/)
 * [Allegorithmic Education](https://www.allegorithmic.com/buy/education): per richiedere la licenza dei software (Bitmap2Material, Substance Painter, Substance Designer)
+* [Unity De-Lightning Tools](https://github.com/Unity-Technologies/DeLightingTool)
 
 #### Manuali
 
