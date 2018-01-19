@@ -23,7 +23,7 @@
 
 > *Nota: Le esercitazioni in classe sono disponibili al seguente link: [Fungus Demos](https://github.com/marcosecchi/naba-2017-labgamedesign-fungus-demos/releases)*
 
-### Esercitazioni 2016
+### Esercitazioni 2016/2017
 
 [Link alle esercitazioni dell'anno precedente](https://github.com/marcosecchi/naba-2016-labgamedesign-fungus-demos)
 
@@ -85,6 +85,7 @@
 
 #### Tech Demos
 * [Real time VFX using Octane Render](https://www.youtube.com/watch?v=pmJrRzzJVF4)
+* [Neon Challenge Submissions](https://connect.unity.com/challenges/neon)
 
 #### Altri Software
 
