@@ -74,6 +74,7 @@
 * [Substance Share](https://share.allegorithmic.com/)
 * [Substance Source](https://source.allegorithmic.com)
 * [Free PBR](https://freepbr.com/)
+* [Quixel Megascans](https://megascans.se/)
 
 #### Movies
 
