@@ -89,3 +89,8 @@
 
 * [Bitmap2Material, Substance Painter, Substance Designer](https://www.allegorithmic.com/)
 * [Allegorithmic Education](https://www.allegorithmic.com/buy/education): per richiedere la licenza dei software (Bitmap2Material, Substance Painter, Substance Designer)
+
+#### Manuali
+
+* [Unity Photogrammetry Workflow](https://unity3d.com/files/solutions/photogrammetry/Unity-Photogrammetry-Workflow_2017-07_v2.pdf)
+* [The Comprehensive PBR Guide](https://www.allegorithmic.com/pbr-guide) (Allegorithmic)
