@@ -82,6 +82,9 @@
 * [Adam - Episode 3](https://www.youtube.com/watch?v=tSDsi2ItktY) (regia di Neill Blomkamp)
 * [Book of the Dead](https://www.youtube.com/watch?v=DDsRfbfnC_A)
 
+#### Tech Demos
+* [Real time VFX using Octane Render](https://www.youtube.com/watch?v=pmJrRzzJVF4)
+
 #### Altri Software
 
 * [Bitmap2Material, Substance Painter, Substance Designer](https://www.allegorithmic.com/)
