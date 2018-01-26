@@ -18,6 +18,7 @@
 * [Lezione 11 - 22/12/2017](https://github.com/marcosecchi/naba-2017-labgamedesign/blob/master/lezione11_20171222.md)
 * [Lezione 12 - 12/01/2018](https://github.com/marcosecchi/naba-2017-labgamedesign/blob/master/lezione12_20180112.md)
 * [Lezione 13 - 19/01/2018](https://github.com/marcosecchi/naba-2017-labgamedesign/blob/master/lezione13_20180119.md)
+* [Lezione 14 - 26/01/2018](https://github.com/marcosecchi/naba-2017-labgamedesign/blob/master/lezione14_20180126.md)
 
 > *Nota: la versione di Unity installata in classe è la **2017.1.1**.*
 
@@ -35,8 +36,7 @@
 
 * [Standard Assets (base)](http://marcosecchi.it/naba2017/StandardAssets_01.zip)
 * [Standard Assets (veicoli)](http://marcosecchi.it/naba2017/StandardAssets_04_Vehicles.zip)
-* ~~Fungus 3.6~~
-* [Fungus 3.7](http://marcosecchi.it/naba2017/Fungus_3_7.zip): utilizzare questa versione invece della precedente
+* [Fungus 3.7](http://marcosecchi.it/naba2017/Fungus_3_7.zip)
 * [Materials](http://marcosecchi.it/naba2017/materials.zip)
 * [Environment](http://marcosecchi.it/naba2017/Environment.zip)
 * [Cinemachine, Timeline, Post Processing Stack](https://www.dropbox.com/s/uqh6iurd646mvwt/TimelineAndCinemachineTutorial-WG.zip?dl=0)
