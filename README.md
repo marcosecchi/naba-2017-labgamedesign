@@ -45,9 +45,9 @@
 
 #### Unity
 
-* [Unity 3D](https://unity3d.com/)
-* [Unity download page (latest)](https://store.unity.com/download?ref=personal)
-* [Unity download page (archive)](https://unity3d.com/get-unity/download/archive?)
+* [Unity 3D](https://unity3d.com/?aid=1011lHJn)
+* [Unity download page (latest)](https://store.unity.com/download?ref=personal&aid=1011lHJn)
+* [Unity download page (archive)](https://unity3d.com/get-unity/download/archive?aid=1011lHJn)
 
 #### Plugins
 
@@ -59,6 +59,9 @@
 
 * [Mixamo](https://www.mixamo.com/)
 * [Carnegie Mellon University Motion Capture Database](https://github.com/keijiro/CMUMocap)
+* [Huge FBX Mocap Library part 1](https://www.assetstore.unity3d.com/#!/content/19991?aid=1011lHJn)
+* [Huge FBX Mocap Library part 2](https://www.assetstore.unity3d.com/#!/content/20282?aid=1011lHJn)
+* [Huge FBX Mocap Library part 3](https://www.assetstore.unity3d.com/#!/content/20285?aid=1011lHJn)
 
 #### Video Tutorials
 
