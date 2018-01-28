@@ -55,6 +55,11 @@
 * [Post Processing Stack](https://assetstore.unity.com/packages/essentials/post-processing-stack-83912)
 * [Cinemachine](https://assetstore.unity.com/packages/essentials/cinemachine-79898)
 
+#### Mocap
+
+* [Mixamo](https://www.mixamo.com/)
+* [Carnegie Mellon University Motion Capture Database](https://github.com/keijiro/CMUMocap)
+
 #### Video Tutorials
 
 * [Unity Live Training Sessions](https://unity3d.com/learn/live-training)
